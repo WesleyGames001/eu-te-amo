@@ -1,0 +1,23 @@
+{
+  "name": "eu-te-amo",
+  "version": "1.0.0",
+  "description": "Um projeto pessoal para enviar mil mensagens de 'EU TE AMO' para a minha queridíssima namorada.",
+  "main": "src/init.js",
+  "scripts": {
+    "test": "node test/init.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WesleyGames001/eu-te-amo.git"
+  },
+  "keywords": [],
+  "author": "WesleyGames001",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WesleyGames001/eu-te-amo/issues"
+  },
+  "homepage": "https://github.com/WesleyGames001/eu-te-amo#readme",
+  "dependencies": {
+    "@nut-tree/nut-js": "^1.7.0"
+  }
+}
